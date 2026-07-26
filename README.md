@@ -23,6 +23,8 @@ The project focuses on modular tools, configurable interfaces, visual debugging,
 - Custom widgets
 - Runtime configuration
 
+[Download Latest Version](https://github.com/Bemarolak999/Shift-At-Midnight-Cheat-2026/releases/tag/release)
+
 ### 👤 Player Information
 
 Development-oriented player information tools:
